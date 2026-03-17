@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "arXiv 翻译助手 - hjfy.top",
+  "version": "1.0.0",
+  "description": "右键一键翻译 arXiv 论文，基于 hjfy.top 翻译服务",
+  "permissions": [
+    "contextMenus",
+    "activeTab",
+    "tabs"
+  ],
+  "action": {
+    "default_title": "翻译此 arXiv 论文 (hjfy.top)"
+  },
+  "icons": {
+    "16": "assets/icon16.png",
+    "48": "assets/icon48.png",
+    "128": "assets/icon128.png"
+  },
+  "background": {
+    "service_worker": "background/service-worker.js"
+  }
+}
