@@ -18,10 +18,18 @@
 ## 使用方式
 
 ### 右键菜单
+在 arXiv 链接上右键，可以看到翻译选项：
+
+![右键菜单](assets/context-menu.png)
+
 - 在 arXiv 摘要页/HTML 页面上右键，选择 **"翻译此论文 (hjfy.top)"**
 - 在任意页面右键点击 arXiv 链接，选择 **"翻译此 arXiv 论文 (hjfy.top)"**
 
 ### 工具栏图标
+在 arXiv 页面（包括 PDF）点击工具栏中的扩展图标：
+
+![工具栏图标](assets/toolbar-icon.png)
+
 - 在任意 arXiv 页面点击工具栏中的扩展图标
 - 适用于 PDF 页面（PDF 页面无法使用右键菜单）
 

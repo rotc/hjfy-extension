@@ -18,10 +18,18 @@ A Chrome extension that translates arXiv papers with one click, powered by [hjfy
 ## Usage
 
 ### Context Menu (right-click)
+Right-click on an arXiv link to see the translation option:
+
+![Context Menu](assets/context-menu.png)
+
 - On an arXiv abstract/HTML page, right-click and select **"翻译此论文 (hjfy.top)"**
 - On any page, right-click an arXiv link and select **"翻译此 arXiv 论文 (hjfy.top)"**
 
 ### Toolbar Icon
+Click the extension icon in the toolbar on any arXiv page (including PDF):
+
+![Toolbar Icon](assets/toolbar-icon.png)
+
 - Navigate to any arXiv page and click the extension icon in the toolbar
 - Works on PDF pages where the context menu is unavailable
 
