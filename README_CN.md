@@ -1,4 +1,8 @@
+中文 | [English](README.md)
+
 # arXiv 翻译助手 - hjfy.top
+
+![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-green) ![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue) ![License MIT](https://img.shields.io/badge/License-MIT-yellow) ![Dependencies Zero](https://img.shields.io/badge/Dependencies-Zero-brightgreen)
 
 一个 Chrome 扩展，一键翻译 arXiv 论文，基于 [hjfy.top](https://hjfy.top) 翻译服务。
 
@@ -28,7 +32,7 @@
 ### 工具栏图标
 在 arXiv 页面（包括 PDF）点击工具栏中的扩展图标：
 
-![工具栏图标](assets/toolbar-icon.png)
+<img src="assets/toolbar-icon.png" width="500" alt="工具栏图标">
 
 - 在任意 arXiv 页面点击工具栏中的扩展图标
 - 适用于 PDF 页面（PDF 页面无法使用右键菜单）

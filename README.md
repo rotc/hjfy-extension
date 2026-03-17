@@ -1,4 +1,8 @@
+[中文文档](README_CN.md) | English
+
 # arXiv Translator - hjfy.top
+
+![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-green) ![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue) ![License MIT](https://img.shields.io/badge/License-MIT-yellow) ![Dependencies Zero](https://img.shields.io/badge/Dependencies-Zero-brightgreen)
 
 A Chrome extension that translates arXiv papers with one click, powered by [hjfy.top](https://hjfy.top).
 
@@ -20,7 +24,7 @@ A Chrome extension that translates arXiv papers with one click, powered by [hjfy
 ### Context Menu (right-click)
 Right-click on an arXiv link to see the translation option:
 
-![Context Menu](assets/context-menu.png)
+<img src="assets/context-menu.png" width="500" alt="Context Menu">
 
 - On an arXiv abstract/HTML page, right-click and select **"翻译此论文 (hjfy.top)"**
 - On any page, right-click an arXiv link and select **"翻译此 arXiv 论文 (hjfy.top)"**
