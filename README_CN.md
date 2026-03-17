@@ -20,7 +20,7 @@
 ### 右键菜单
 在 arXiv 链接上右键，可以看到翻译选项：
 
-![右键菜单](assets/context-menu.png)
+<img src="assets/context-menu.png" width="500" alt="右键菜单">
 
 - 在 arXiv 摘要页/HTML 页面上右键，选择 **"翻译此论文 (hjfy.top)"**
 - 在任意页面右键点击 arXiv 链接，选择 **"翻译此 arXiv 论文 (hjfy.top)"**

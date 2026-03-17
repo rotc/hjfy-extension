@@ -28,7 +28,7 @@ Right-click on an arXiv link to see the translation option:
 ### Toolbar Icon
 Click the extension icon in the toolbar on any arXiv page (including PDF):
 
-![Toolbar Icon](assets/toolbar-icon.png)
+<img src="assets/toolbar-icon.png" width="500" alt="Toolbar Icon">
 
 - Navigate to any arXiv page and click the extension icon in the toolbar
 - Works on PDF pages where the context menu is unavailable
